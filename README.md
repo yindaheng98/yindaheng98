@@ -14,6 +14,7 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 -->
-- 📫 How to reach me: [Email](yindaheng98@163.com), [Blog](https://yindaheng98.github.io), [Site](http://yindaheng98.top:30000)
+- 📧 How to reach me: <yindaheng98@163.com>
+- 🔗 Here is my blog: <https://yindaheng98.github.io>
 - ⚡ Fun fact: An experience Minecraft server maintainer
 - 👔 Working experience: [Wuxi Soft Testing & Certification Co., Ltd.](http://www.wxstc.org.cn/)
