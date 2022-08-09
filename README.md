@@ -1,6 +1,6 @@
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=yindaheng98&show_icons=true&count_private=true">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yindaheng98&layout=compact&langs_count=10&exclude_repo=yindaheng98.github.io,LittleProgramSet,ExpertField,Three-effect-reaction-Simulator,WebSiteAnalysisKit,iQRGenuine">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yindaheng98&langs_count=8&hide=javascript,html,tex,Jupyter%20Notebook&exclude_repo=yindaheng98.github.io,LittleProgramSet">
 </div>
 
 ### Hi there 👋, it's Howard Yin
