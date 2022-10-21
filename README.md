@@ -9,7 +9,7 @@
 <!--
 **yindaheng98/yindaheng98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🔭 I'm researching on: real-time video streaming & edge computing
+- 🔭 I'm researching on: video live & super-resolution & edge computing
 - 🌱 I’m currently learning: WebRTC & video codec
 <!--
 - 👯 I’m looking to collaborate on ...
