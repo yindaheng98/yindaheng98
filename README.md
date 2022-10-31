@@ -1,6 +1,6 @@
 <div>
   <img alt="Github stats" width="60%" src="https://github-readme-stats.vercel.app/api?username=yindaheng98&show_icons=true&count_private=true">
-  <img alt="Top langs" width="35%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yindaheng98&langs_count=8&hide=html,tex,javascript,css,Jupyter%20Notebook&exclude_repo=yindaheng98.github.io,LittleProgramSet">
+  <img alt="Top langs" width="35%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yindaheng98&langs_count=8&hide=html,tex,javascript,css,Jupyter%20Notebook,c&exclude_repo=yindaheng98.github.io,LittleProgramSet">
   <img alt="Skill list" width="60%" src="https://skillicons.dev/icons?&perline=8&i=py,latex,go,java,nodejs,vue,bash,cpp,docker,kubernetes,githubactions,redis,mysql,nginx,arduino,raspberrypi">
 </div>
 
