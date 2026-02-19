@@ -22,3 +22,5 @@ jobs:
           plugin_languages_skipped: yindaheng98/yindaheng98.github.io
           plugin_languages_ignored: html, css, tex, Jupyter%20Notebook
           commits_authoring: yindaheng98@gmail.com,yindaheng98@163.com,770275298@qq.com
+          plugin_followup: yes
+          plugin_followup_sections: user
