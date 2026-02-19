@@ -1,5 +1,5 @@
 <div>
-  <img alt="Github stats" width="60%" src="https://github-readme-stats.vercel.app/api?username=yindaheng98&show_icons=true&count_private=true">
+  <img alt="Github stats" width="60%" src="./github-metrics.svg">
   <img alt="Top langs" width="35%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yindaheng98&langs_count=8&hide=html,tex,javascript,css,Jupyter%20Notebook,c&exclude_repo=yindaheng98.github.io,LittleProgramSet">
   <img alt="Skill list" width="60%" src="https://skillicons.dev/icons?&perline=8&i=py,pytorch,go,java,nodejs,js,ts,vue,cpp,docker,kubernetes,githubactions,arduino,raspberrypi,ubuntu,md">
 </div>
